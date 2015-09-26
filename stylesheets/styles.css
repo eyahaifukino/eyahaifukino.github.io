@@ -364,7 +364,7 @@ fieldset {
 
 /*
  * 1. Corrects color not being inherited in IE6/7/8/9
- * 2. Corrects text not wrapping in FF3 
+ * 2. Corrects text not wrapping in FF3
  * 3. Corrects alignment displayed oddly in IE6/7
  */
 legend {
@@ -504,7 +504,7 @@ table {
 
 body {
   font: 14px/22px "Quattrocento Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #666;
+  color: #135690;
   font-weight: 300;
   margin: 0px;
   padding: 0px 0 20px 0px;
@@ -680,7 +680,7 @@ header h1 {
   -ms-text-overflow: ellipsis;
 }
 header p {
-  color: #d8d8d8;
+  color: #3DA475 none repeat scroll 0% 0%;
   text-shadow: rgba(0, 0, 0, 0.2) 0 1px 0;
   font-size: 18px;
   margin: 0px;
