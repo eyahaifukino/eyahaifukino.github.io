@@ -504,7 +504,7 @@ table {
 
 body {
   font: 14px/22px "Quattrocento Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #135690;
+  color: rgb(19, 86, 144);
   font-weight: 300;
   margin: 0px;
   padding: 0px 0 20px 0px;
@@ -694,7 +694,7 @@ header p {
   margin-right: -382px;
   position: fixed;
   top: 115px;
-  background: #ffcc00;
+  background: #3DA475 none repeat scroll 0% 0%;
   border: 1px solid #f0b500;
   -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
   -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
